@@ -1,6 +1,13 @@
-<h1>👋 Hi, I’m @phuongnam281204 aka Trần Phương Nam (T6C3)<h1>
- <p align="center"><em>Back-end Developer</em></p>
-<p align="center">
+<h1>Hello Everyone</h1>
+
+  ## 🚀 About Me
+ <li>👋 Hi, I’m @phuongnam281204 aka Trần Phương Nam</li>
+ <li> I 💖 Anime, code, music</li>
+ <li> I 🕹️ Valorant 
+ <li><em>Back-end Developer | Mern Stack </em></li>
+ 
+ ## 📫How to reach me: 
+ <p align="center">
   <a href="https://www.facebook.com/namphuongtran2812"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
  <a href="https://www.instagram.com/nemtran2812?igsh=NmN3dGY0bmpoN2ts" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
@@ -18,6 +25,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuongnam281204&theme=vue" alt="GitHub Activity Graph" />
 </p>
+
+## 😎 Contributor
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/ghaut999"><img src="https://avatars.githubusercontent.com/u/145711398?v=4" width="100px;" alt=""/><br /><sub><b>Minh Quân</b></sub></a></td>
+    <td align="center"><a href="https://github.com/phongdz76"><img src="https://avatars.githubusercontent.com/u/145427852?v=4" width="100px;" alt=""/><br /><sub><b>Thanh Phong</b></sub></a></td>
+    <td align="center"><a href="https://github.com/meowlet"><img src="https://avatars.githubusercontent.com/u/151436214?v=4" width="100px;" alt=""/><br /><sub><b>Anh Kiệt</b></sub></a></td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Achievements
 
